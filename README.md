@@ -1,2 +1,7 @@
-# cookiecutter-ml
-Cookie Cutter template for ML pipeline
+# {{cookiecutter.project_name}}
+
+{{cookiecutter.description}}
+
+### Maintainer
+
+- {{cookiecutter.author_name}}
